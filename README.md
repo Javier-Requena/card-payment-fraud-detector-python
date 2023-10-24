@@ -73,7 +73,7 @@ In this project, we have developed a model for detecting fraudulent credit card 
 
 The project will be expanded by employing different techniques for addressing imbalanced data (oversampling, SMOTE, etc.) and incorporating additional machine learning models with fine-tuned hyperparameter adjustments to maximize the efficacy of our model.
 
-<img src="images/graph.png" alt="Logo" width="800">
+<img src="images/graph.png" alt="Logo" width="500">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
